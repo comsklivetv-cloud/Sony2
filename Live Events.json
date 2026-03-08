@@ -109,9 +109,7 @@
         "name": "Argentina v Cayman Islands | 15-03-26",
         "thumb": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/oggkgigzblychqknuge8",
         "url": "https://example.com/dummy.mpd"
-    }
-]
-},
+    },
 
 {
       "title": "Sports",
@@ -374,9 +372,7 @@
   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEht3l48GH5jheMJiK4YpznFxqS1HBVadTj3vlK5Yzxw&s=10",
   "url": "https://webiptv.site/dashplyr?url=https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd&keys=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f"
 
-        }
-      ]
-    },
+        },
         {
       "title": "iOS",
       "channels": [
