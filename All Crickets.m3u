@@ -7,13 +7,6 @@
 #EXTHTTP:{"cookie":"__hdnea__=st=1775330804~exp=1775417204~acl=/*~hmac=edaaed5ec32e0178fda1238639be65b1c6037bf2a333b8d598d9b88f8e65ebf0","user-agent":"@StreamFlex19"}
 https://jiotvioslive.cdn.jio.com/bpk-tv/Jio_Events_BTS/output/index.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rongeen_TV.png",Rongeen TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc73820e5c7b56c4b71dea3ff244fd5d:a0beb46ec64d13391a6120c307ecd6b7
-#EXTVLCOPT:http-user-agent=@StreamFlex19
-#EXTHTTP:{"cookie":"__hdnea__=st=1775330804~exp=1775417204~acl=/*~hmac=edaaed5ec32e0178fda1238639be65b1c6037bf2a333b8d598d9b88f8e65ebf0","user-agent":"@StreamFlex19"}
-https://jiotvioslive.cdn.jio.com/bpk-tv/Rongeen_TV_BTS/output/index.mpd
-
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Specials_HD.png",Jio Specials HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6017d0514d425fa38f6e80ba6dcc852f:0018944b00adf2078f62386f30c68b74
@@ -181,20 +174,6 @@ https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.
 #EXTVLCOPT:http-user-agent=@StreamFlex19
 #EXTHTTP:{"cookie":"__hdnea__=st=1775330804~exp=1775417204~acl=/*~hmac=edaaed5ec32e0178fda1238639be65b1c6037bf2a333b8d598d9b88f8e65ebf0","user-agent":"@StreamFlex19"}
 https://jiotvioslive.cdn.jio.com/bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd
-
-#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_International_HD.png",Disney International HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0e021aa91c65e68a7028c2a6a762eca:d50822403365e360d12840251cecee84
-#EXTVLCOPT:http-user-agent=@StreamFlex19
-#EXTHTTP:{"cookie":"__hdnea__=st=1775330804~exp=1775417204~acl=/*~hmac=edaaed5ec32e0178fda1238639be65b1c6037bf2a333b8d598d9b88f8e65ebf0","user-agent":"@StreamFlex19"}
-https://jiotvioslive.cdn.jio.com/bpk-tv/Disney_International_HD_BTS/output/index.mpd
-
-#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
-#EXTVLCOPT:http-user-agent=@StreamFlex19
-#EXTHTTP:{"cookie":"__hdnea__=st=1775330804~exp=1775417204~acl=/*~hmac=edaaed5ec32e0178fda1238639be65b1c6037bf2a333b8d598d9b88f8e65ebf0","user-agent":"@StreamFlex19"}
-https://jiotvioslive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png",Star Sports Khel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
